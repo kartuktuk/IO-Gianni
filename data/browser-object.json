@@ -1,0 +1,28 @@
+{
+  "sessionId": "37a15a5cbac8f074e0a563c9688c2fa7",
+  "capabilities": {
+    "acceptInsecureCerts": false,
+    "browserName": "chrome",
+    "browserVersion": "123.0.6312.87",
+    "chrome": {
+      "chromedriverVersion": "123.0.6312.86 (9b72c47a053648d405376c5cf07999ed626728da-refs/branch-heads/6312@{#698})",
+      "userDataDir": "/var/folders/94/x1pnlf652q96s_l4q1gtdy5c0000gn/T/.org.chromium.Chromium.UatVIl"
+    },
+    "fedcm:accounts": true,
+    "goog:chromeOptions": { "debuggerAddress": "localhost:53530" },
+    "networkConnectionEnabled": false,
+    "pageLoadStrategy": "normal",
+    "platformName": "mac",
+    "proxy": {},
+    "setWindowRect": true,
+    "strictFileInteractability": false,
+    "timeouts": { "implicit": 0, "pageLoad": 300000, "script": 30000 },
+    "unhandledPromptBehavior": "dismiss and notify",
+    "webauthn:extension:credBlob": true,
+    "webauthn:extension:largeBlob": true,
+    "webauthn:extension:minPinLength": true,
+    "webauthn:extension:prf": true,
+    "webauthn:virtualAuthenticators": true,
+    "wdio:driverPID": 7304
+  }
+}

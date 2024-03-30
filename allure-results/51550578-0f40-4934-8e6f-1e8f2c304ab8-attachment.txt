@@ -1,0 +1,44 @@
+{
+  "id": {
+    "sessionId": "e5fa0bf3fd747f4a0d1ee240f35262c1f5661284",
+    "elementId": "f.CB1EEEC8CB9313CDE69E76FED7363486.d.DC862A27A237557FF90ED2E46C74E54F.e.82",
+    "element-6066-11e4-a52e-4f735466cecf": "f.CB1EEEC8CB9313CDE69E76FED7363486.d.DC862A27A237557FF90ED2E46C74E54F.e.82",
+    "selector": "#frame",
+    "parent": {
+      "sessionId": "e5fa0bf3fd747f4a0d1ee240f35262c1f5661284",
+      "capabilities": {
+        "acceptInsecureCerts": false,
+        "browserName": "chrome",
+        "browserVersion": "123.0.6312.59",
+        "chrome": {
+          "chromedriverVersion": "123.0.6312.58 (6b4b19e9dfbb93aa414dc045bd445287977d8d7a-refs/branch-heads/6312_46@{#3})",
+          "userDataDir": "C:\\Windows\\proxy\\scoped_dir1268_1449438919"
+        },
+        "fedcm:accounts": true,
+        "goog:chromeOptions": {
+          "debuggerAddress": "localhost:4743"
+        },
+        "networkConnectionEnabled": false,
+        "pageLoadStrategy": "normal",
+        "platformName": "windows",
+        "proxy": {},
+        "setWindowRect": true,
+        "strictFileInteractability": false,
+        "timeouts": {
+          "implicit": 0,
+          "pageLoad": 300000,
+          "script": 30000
+        },
+        "unhandledPromptBehavior": "dismiss and notify",
+        "webauthn:extension:credBlob": true,
+        "webauthn:extension:largeBlob": true,
+        "webauthn:extension:minPinLength": true,
+        "webauthn:extension:prf": true,
+        "webauthn:virtualAuthenticators": true,
+        "webdriver.remote.sessionid": "e5fa0bf3fd747f4a0d1ee240f35262c1f5661284"
+      }
+    },
+    "isReactElement": false,
+    "isShadowElement": false
+  }
+}
